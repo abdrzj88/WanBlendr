@@ -4,7 +4,7 @@ https://www.facebook.com/share/g/1BwqxXK6xa/
 
 # WanBlendr & WanBlendrPlus-GPL-OpenWrt
 
-### واجهة تفعيل التطبيق:
+### واجهة تفعيل التطبيق للنظام القديم WanBlendr و لا يوجد مجاني لـ Plus
 
 <img width="770" height="622" alt="image" src="https://github.com/user-attachments/assets/7f9bfb75-c4ab-44ae-a988-5712887de9eb" />
 
